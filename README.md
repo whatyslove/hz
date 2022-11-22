@@ -1,0 +1,2 @@
+# hz
+my first repository
